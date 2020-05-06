@@ -1,0 +1,49 @@
+                #naslov {
+                    font-family: Helvetica;
+                    font-size: 100px;
+                    font-weight: bold;
+                    color: khaki;
+                    text-align: center;
+                }
+                
+                .Slika1 {
+                    background-repeat: no-repeat;
+                }
+                
+                #Brushes {
+                    background-color: mediumspringgreen;
+                    font-family: Helvetica;
+                    font-size: 32px;
+                    font-weight: bold;
+                    color: white;
+                }
+                
+                #Frames {
+                    background-color: lightcoral;
+                    font-family: Helvetica;
+                    font-size: 32px;
+                    font-weight: bold;
+                    color: white;
+                }
+                
+                #Paint {
+                    background-color: skyblue;
+                    font-family: Helvetica;
+                    font-size: 32px;
+                    font-weight: bold;
+                    color: white;
+                }
+                
+                p {
+                    font-family: Arial, Helvetica, sans-serif;
+                    font-size: medium;
+                    color: black;
+                    font-weight: 100;
+                }
+                
+                .bold1 {
+                    font-family: Helvetica;
+                    font-weight: bold;
+                    color: blue;
+                    font-size: large;
+                }
